@@ -7,6 +7,6 @@ const array = numeroUtente.split('');
 
 let somma = 0
 
-while(somma += parseInt(array[i])){
-    
+while(somma < 50){
+    somma = somma + array
 }
