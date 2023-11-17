@@ -8,5 +8,8 @@ const array = numeroUtente.split('');
 let somma = 0
 
 while(somma < 50){
+    prompt('inserisci un altro numero')
     somma = somma + array
 }
+
+console.log(array)
