@@ -4,9 +4,7 @@
 const nomiArray = ['andrea', 'luca', 'gina', 'inetta'];
 const cognomiArray = ['lori', 'rossi', 'pumi', 'razo'];
 
-let somma = 0
-
-let falsaArray = nomiArray[0] + cognomiArray [0]
+let falsaArray = [nomiArray(i).length + cognomiArray(i).length]
 
 console.log(falsaArray)
 
