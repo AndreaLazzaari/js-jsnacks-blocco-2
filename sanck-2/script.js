@@ -6,5 +6,9 @@ const cognomiArray = ['lori', 'rossi', 'pumi', 'razo'];
 
 let somma = 0
 
-const falsoArray = 
+let falsaArray = nomiArray[0] + cognomiArray [0]
+
+console.log(falsaArray)
+
+
 
