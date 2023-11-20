@@ -2,7 +2,10 @@
 // allora ritorna vero, altrimenti ritorna falso. Micro bonus: se sono uguali ritorna il numero.
 
 function comparaDueNumeri(numeroUno, numeroDue) {
-   if (numeroUno / numeroDue % 0){
+   
+   if (numeroUno === numeroDue){
+      return numeroUno
+   } else if (numeroUno % numeroDue === 0){
       return true
    } else {
       return false
@@ -10,5 +13,5 @@ function comparaDueNumeri(numeroUno, numeroDue) {
    
 }
 
-let maggiore = comparaDueNumeri(8,2)
+let maggiore = comparaDueNumeri(5,5)
 console.log(maggiore)
