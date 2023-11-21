@@ -1,0 +1,15 @@
+
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+article {
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+}
