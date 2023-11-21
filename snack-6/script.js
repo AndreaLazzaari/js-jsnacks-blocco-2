@@ -4,6 +4,9 @@
 const numeroUtente = 5
 
 function creazioneQuadrati(numero) {
-   const quadrato = document.createElement (section.article)
+   const quadrato = document.createElement ('section.article')
    console.log(quadrato)
+   quadrato.appendChild('section')
 }
+
+let risultato = creazioneQuadrati(2)
