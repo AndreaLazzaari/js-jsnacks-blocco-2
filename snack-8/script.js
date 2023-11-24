@@ -11,56 +11,56 @@ const listaZucchine = [
 
     {
         varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        peso : 2,
+        lunghezza : 9
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'fiorentino',
+        peso : 31,
+        lunghezza : 48
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'napopletana',
+        peso : 71,
+        lunghezza : 86
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'tonde',
+        peso : 4,
+        lunghezza : 9
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'trombetta',
+        peso : 2,
+        lunghezza : 7
     },
 
     {
-        varieta : 'romanesca',
+        varieta : 'gialla',
         peso : 3,
-        lunghezza : 6
+        lunghezza : 7
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'rugoso',
+        peso : 45,
+        lunghezza : 66
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'friulano',
+        peso : 78,
+        lunghezza : 44
     },
 
     {
-        varieta : 'romanesca',
-        peso : 3,
-        lunghezza : 6
+        varieta : 'crookneck',
+        peso : 777,
+        lunghezza : 885
     },
 
 
