@@ -3,12 +3,68 @@
 
 
 const listaZucchine = [
-    'nera' = {
+    {
         varieta : 'nera',
         peso : 3,
         lunghezza : 6
-    }
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
+
+    {
+        varieta : 'romanesca',
+        peso : 3,
+        lunghezza : 6
+    },
 
 
 
 ];
+
+console.log(listaZucchine)
