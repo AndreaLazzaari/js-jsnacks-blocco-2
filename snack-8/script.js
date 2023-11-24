@@ -68,3 +68,13 @@ const listaZucchine = [
 ];
 
 console.log(listaZucchine)
+
+let somma = 0
+
+for (let index = 0; index < listaZucchine.length; index++) {
+    const zucchinaAttuale = listaZucchine[index];
+    somma += zucchinaAttuale.peso
+    console.log(zucchinaAttuale)
+}
+
+console.log(somma)
